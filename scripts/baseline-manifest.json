@@ -1,0 +1,11 @@
+{
+  "protectedFiles": {
+    "AGENTS.md": "131c34e38ba4b5c9beea444b10710437e8b5cb4479ea6e6d284c00f4e9a79d42",
+    "README.md": "ef1bdf64eee7aeae5969728ccd629d9df3179b614130c46ebf23d584896c56c2",
+    "package.json": "af1b4038bcd5ee2f00d524831aba41f6c4744a5bca4bea2c784092e56f17f645",
+    "src/app.js": "f4063ccc4d7bf6838f2562a4874c20072df6a31d8e34b4b23893d8b1f0390f23",
+    "src/server.js": "2ddd866700ad1bed46b8a12ca29fa1287ef43880d17d97ad25f04f40332e0497",
+    "test/mission.test.js": "a73e74aa348be84703898a73ec5029289fccde1c5696fc2108094237b7232b08",
+    "scripts/student-check.js": "8a7e8ffe76d9c18e221e3f93d35ea66df5775c1d5d8124ead3611b2f1c44dc57"
+  }
+}

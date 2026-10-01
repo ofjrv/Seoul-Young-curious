@@ -1,0 +1,14 @@
+{
+  "name": "young-career-agent-mini-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/mission.test.js",
+    "check": "node scripts/student-check.js"
+  }
+}
